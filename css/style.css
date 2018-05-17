@@ -21,6 +21,29 @@
 .marginn{
   margin-left: 30px;
 }
-.trcolor{
+.trbg{
   background-color: rgba(48,224,195,0.9);
+}
+.hcjs{
+  font-size: 18px;
+}
+.fonts1{
+  font-size: 50px;
+}
+.fonts2{
+  font-size: 22px;
+}
+.marginh1-2{
+  font-size: 60px;
+  margin: 50px;
+}
+.imgmg{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.footercolor{
+  background-color: rgb(41,44,47);
+}
+.fontweight{
+  font-weight: bold;
 }
